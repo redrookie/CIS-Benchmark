@@ -9,4 +9,4 @@ Rodar o script cis-level1-ubuntu.sh com privilégios de root.
 
 # Instruções para o Iptables
 
-Rodar o script iptables-settings.sh com privilégios de root. Ele possui comandos para implementar as regras de loopback, e logs de pacotes, no iptables.
+Rodar o script iptables-settings.sh com privilégios de root. Ele possui comandos para implementar as regras de loopback e logging de pacotes, no iptables.
